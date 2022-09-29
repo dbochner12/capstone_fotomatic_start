@@ -48,7 +48,6 @@ header .content {
   display: flex;
   align-items: center;
   padding: 1.875rem;
-  text-decoration: none;
 }
 
 header .logo {
@@ -60,6 +59,7 @@ a.desktop.logo {
   color: #4a4a4a;
   font-family: 'Roboto-Mono-Regular';
   margin-left: 1.875rem;
+  text-decoration: none;
 }
 
 header nav ul {
@@ -78,6 +78,7 @@ nav a {
   font-size: 1rem;
   color: #4a4a4a;
   font-family: 'Roboto-Regular';
+  text-decoration: none;
 }
 
 header .icon {
