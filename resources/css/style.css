@@ -58,7 +58,7 @@ a.desktop.logo {
   font-size: 1.5rem;
   color: #4a4a4a;
   font-family: 'Roboto-Mono-Regular';
-  margin-left: 1.875rem;
+  /*margin-left: 1.875rem;*/
   text-decoration: none;
 }
 
