@@ -127,18 +127,20 @@ header .mobile {
 }
 
 #sign-up-cta {
+  /* According to Specs
   margin-top: 10.625rem;
   margin-left: 6.25rem;
-  
+  */
+
   padding: 0 5rem 2.5rem 5rem;
   border: solid 1px #979797;
   border-radius: 4px;
   background-color: #9dc20b;
-  /* From Final Version
+
+  /* From Final Version */
   position: relative;
   top: 171px;
   left:left: 10%;
-  */
 }
 
 #sign-up-cta .content {
